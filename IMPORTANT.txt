@@ -1,0 +1,1 @@
+Do ./setup.sh in terminal to start
